@@ -8,7 +8,7 @@ app.use(express.urlencoded());
 
 routes(app);
 
-app.listen(PORT, () =>
+app.listen(process.env.PORT || PORT, () =>
 console.log(`Your server is running on port ${PORT}`))
 
 module.exports.app = app;
