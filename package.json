@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start:dev": "NODE_ENV=development nodemon src/index",
-    "start": "NODE_ENV=production node src/index",
+    "start": "NODE_ENV=production node index",
     "test:integration": "jest   tests/integration --all --runInBand --watch --forceExit --detectOpenHandles --verbose --coverage "
   },
   "author": "",

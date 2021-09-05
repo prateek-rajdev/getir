@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1630864749081" clover="3.2.0">
-  <project timestamp="1630864749081" name="All files">
-    <metrics statements="85" coveredstatements="48" conditionals="24" coveredconditionals="2" methods="10" coveredmethods="3" elements="119" coveredelements="53" complexity="0" loc="85" ncloc="85" packages="9" files="11" classes="11"/>
+<coverage generated="1630866977927" clover="3.2.0">
+  <project timestamp="1630866977928" name="All files">
+    <metrics statements="85" coveredstatements="47" conditionals="24" coveredconditionals="2" methods="10" coveredmethods="2" elements="119" coveredelements="51" complexity="0" loc="85" ncloc="85" packages="9" files="11" classes="11"/>
     <package name="getir">
-      <metrics statements="10" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <metrics statements="10" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
       <file name="app.js" path="/home/raju/getir/app.js">
-        <metrics statements="10" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <metrics statements="10" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
         <line num="1" count="1" type="stmt"/>
         <line num="2" count="1" type="stmt"/>
         <line num="3" count="1" type="stmt"/>
@@ -14,7 +14,7 @@
         <line num="7" count="1" type="stmt"/>
         <line num="9" count="1" type="stmt"/>
         <line num="11" count="1" type="stmt"/>
-        <line num="12" count="1" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
         <line num="14" count="1" type="stmt"/>
       </file>
     </package>
